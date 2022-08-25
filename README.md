@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on projects that relates to programming
-- 📫 How to reach m: inbox me! 67561172_
+- 📫 How to reach m: inbox me! 675611728
 
 <!---
 Sammi-Drums/Sammi-Drums is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
